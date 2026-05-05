@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rukaiya's Portfolio</title>
+</head>
+<body>
+    <h1>Rukaiya's Portfolio</h1>
+    <p>I'm a student currently learning Web Development and a future dentist.</p>
+     <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+            </ul>
+            </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm a student at Ta'awun Vocational College learning Web Development.</p>
+        <p>My future career will be a dentist since i'm passionate with it.</p>
+        <p>I'm currently learning Web Development and make it my side hustle.</p>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Group Project</li>
+        </ul>
+        <p>I managed to do a group project with my fellow team mates and it was about corteiz brand.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Contact me for opportunities!</p>
+        <p>Call me:<a href="tel: 0708147610">0708147610</a></p>
+        <p>Email:<a href="mailto:rukaiyasalim41@gmail.com">rukaiyasalim41@gmail.com</a></p>
+        <p>Github:<a href="https://github.com/dev-Rukaiya-Salim">dev-Rukaiya-Salim</a></p>
+        <p>X:<a href="https://x.com/SalimRukai62171">SalimRukai62171</a></p>
+    </section>
+    
+</body>
+</html>
